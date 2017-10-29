@@ -1,0 +1,1488 @@
+County Name	County Pop	City Name	City Pop.	No. Zip Codes
+Anderson County	41,169	Cayuga	199	1	
+Anderson County	41,169	Elkhart	4,460	1	
+Anderson County	41,169	Frankston	4,830	1	
+Anderson County	41,169	Montalba	850	1	
+Anderson County	41,169	Neches	484	1	
+Anderson County	41,169	Palestine	28,771	4	
+Anderson County	41,169	Tennessee Colony	1,575	4	
+Andrews County	17,350	Andrews	17,350	1	
+Angelina County	77,359	Diboll	7,120	1	
+Angelina County	77,359	Huntington	6,910	1	
+Angelina County	77,359	Lufkin	58,269	5	
+Angelina County	77,359	Pollok	3,120	1	
+Angelina County	77,359	Zavalla	1,940	1	
+Aransas County	19,724	Fulton	2,354	1	
+Aransas County	19,724	Rockport	17,370	2	
+Archer County	5,745	Archer City	1,720	1	
+Archer County	5,745	Holliday	1,960	1	
+Archer County	5,745	Megargel	295	1	
+Archer County	5,745	Scotland	450	1	
+Archer County	5,745	Windthorst	1,320	1	
+Armstrong County	1,677	Claude	1,610	1	
+Armstrong County	1,677	Wayside	67	1	
+Atascosa County	44,002	Campbellton	260	1	
+Atascosa County	44,002	Charlotte	1,900	1	
+Atascosa County	44,002	Christine	450	1	
+Atascosa County	44,002	Jourdanton	5,550	1	
+Atascosa County	44,002	Leming	1,172	1	
+Atascosa County	44,002	Lytle	6,990	1	
+Atascosa County	44,002	Peggy	0	1	
+Atascosa County	44,002	Pleasanton	13,470	1	
+Atascosa County	44,002	Poteet	9,580	1	
+Atascosa County	44,002	Somerset	4,630	1	
+Austin County	28,262	Bellville	8,810	1	
+Austin County	28,262	Bleiblerville	240	1	
+Austin County	28,262	Industry	620	1	
+Austin County	28,262	Kenney	222	1	
+Austin County	28,262	New Ulm	1,780	1	
+Austin County	28,262	San Felipe	490	1	
+Austin County	28,262	Sealy	13,140	1	
+Austin County	28,262	Wallis	2,960	1	
+Bailey County	7,714	Enochs	54	1	
+Bailey County	7,714	Maple	30	1	
+Bailey County	7,714	Muleshoe	7,630	1	
+Bandera County	17,189	Bandera	7,770	1	
+Bandera County	17,189	Medina	1,310	1	
+Bandera County	17,189	Pipe Creek	7,730	1	
+Bandera County	17,189	Tarpley	230	1	
+Bandera County	17,189	Vanderpool	149	1	
+Bastrop County	72,260	Bastrop	23,720	1	
+Bastrop County	72,260	Cedar Creek	12,470	1	
+Bastrop County	72,260	Elgin	21,410	1	
+Bastrop County	72,260	Mc Dade	1,370	1	
+Bastrop County	72,260	Paige	2,510	1	
+Bastrop County	72,260	Red Rock	2,110	1	
+Bastrop County	72,260	Rosanky	1,010	1	
+Bastrop County	72,260	Smithville	7,660	1	
+Baylor County	2,940	Seymour	2,940	1	
+Bee County	22,551	Beeville	18,951	2	
+Bee County	22,551	Mineral	145	1	
+Bee County	22,551	Normanna	230	1	
+Bee County	22,551	Pawnee	227	1	
+Bee County	22,551	Pettus	675	1	
+Bee County	22,551	Skidmore	1,670	1	
+Bee County	22,551	Tuleta	373	1	
+Bee County	22,551	Tynan	280	1	
+Bell County	311,705	Belton	33,020	1	
+Bell County	311,705	Burlington	490	1	
+Bell County	311,705	Fort Hood	23,160	1	
+Bell County	311,705	Harker Heights	27,060	1	
+Bell County	311,705	Heidenheimer	217	1	
+Bell County	311,705	Holland	2,440	1	
+Bell County	311,705	Killeen	133,741	7	
+Bell County	311,705	Little River Academy	2,100	1	
+Bell County	311,705	Nolanville	4,880	1	
+Bell County	311,705	Pendleton	202	1	
+Bell County	311,705	Rogers	2,510	1	
+Bell County	311,705	Salado	7,270	1	
+Bell County	311,705	Temple	70,005	6	
+Bell County	311,705	Troy	4,610	1	
+Bexar County	1,658,879	Adkins	7,890	1	
+Bexar County	1,658,879	Atascosa	6,860	1	
+Bexar County	1,658,879	Boerne	13,970	1	
+Bexar County	1,658,879	Converse	41,270	1	
+Bexar County	1,658,879	Elmendorf	7,800	1	
+Bexar County	1,658,879	Helotes	27,840	1	
+Bexar County	1,658,879	Lackland A F B	2,730	1	
+Bexar County	1,658,879	Macdona	584	1	
+Bexar County	1,658,879	Randolph A F B	553	1	
+Bexar County	1,658,879	Saint Hedwig	2,280	1	
+Bexar County	1,658,879	San Antonio	1,519,992	84	
+Bexar County	1,658,879	Universal City	19,560	1	
+Bexar County	1,658,879	Von Ormy	7,550	1	
+Blanco County	9,158	Blanco	5,040	1	
+Blanco County	9,158	Hye	108	1	
+Blanco County	9,158	Johnson City	3,410	1	
+Blanco County	9,158	Round Mountain	600	1	
+Borden County	310	Gail	310	1	
+Bosque County	16,079	Clifton	5,870	1	
+Bosque County	16,079	Cranfills Gap	430	1	
+Bosque County	16,079	Iredell	610	1	
+Bosque County	16,079	Kopperl	870	1	
+Bosque County	16,079	Laguna Park	309	1	
+Bosque County	16,079	Meridian	2,110	1	
+Bosque County	16,079	Morgan	1,340	1	
+Bosque County	16,079	Valley Mills	3,480	1	
+Bosque County	16,079	Walnut Springs	1,060	1	
+Bowie County	80,977	De Kalb	4,920	1	
+Bowie County	80,977	Hooks	4,640	1	
+Bowie County	80,977	Maud	3,400	1	
+Bowie County	80,977	Nash	3,130	1	
+Bowie County	80,977	New Boston	7,800	1	
+Bowie County	80,977	Redwater	1,027	1	
+Bowie County	80,977	Simms	1,550	1	
+Bowie County	80,977	Texarkana	54,510	6	
+Brazoria County	326,560	Alvin	45,933	2	
+Brazoria County	326,560	Angleton	27,997	2	
+Brazoria County	326,560	Brazoria	11,720	1	
+Brazoria County	326,560	Clute	14,410	1	
+Brazoria County	326,560	Damon	2,070	1	
+Brazoria County	326,560	Danbury	2,970	1	
+Brazoria County	326,560	Danciger	42	1	
+Brazoria County	326,560	Freeport	15,784	2	
+Brazoria County	326,560	Lake Jackson	28,660	1	
+Brazoria County	326,560	Liverpool	1,160	1	
+Brazoria County	326,560	Manvel	16,600	1	
+Brazoria County	326,560	Old Ocean	330	1	
+Brazoria County	326,560	Pearland	122,094	3	
+Brazoria County	326,560	Rosharon	23,230	1	
+Brazoria County	326,560	Sweeny	6,960	1	
+Brazoria County	326,560	West Columbia	6,600	1	
+Brazos County	152,609	Bryan	82,184	7	
+Brazos County	152,609	College Station	69,597	6	
+Brazos County	152,609	Kurten	104	1	
+Brazos County	152,609	Millican	383	1	
+Brazos County	152,609	Wellborn	341	1	
+Brewster County	7,936	Alpine	6,690	3	
+Brewster County	7,936	Big Bend National Park	208	1	
+Brewster County	7,936	Marathon	438	1	
+Brewster County	7,936	Terlingua	600	1	
+Briscoe County	1,260	Quitaque	410	1	
+Briscoe County	1,260	Silverton	850	1	
+Brooks County	6,470	Encino	270	1	
+Brooks County	6,470	Falfurrias	6,200	1	
+Brown County	31,944	Bangs	2,500	1	
+Brown County	31,944	Blanket	1,130	1	
+Brown County	31,944	Brookesmith	350	1	
+Brown County	31,944	Brownwood	21,594	3	
+Brown County	31,944	Early	4,260	1	
+Brown County	31,944	May	1,320	1	
+Brown County	31,944	Zephyr	790	1	
+Burleson County	15,848	Caldwell	10,250	1	
+Burleson County	15,848	Chriesman	119	1	
+Burleson County	15,848	Deanville	222	1	
+Burleson County	15,848	Lyons	507	1	
+Burleson County	15,848	Snook	970	1	
+Burleson County	15,848	Somerville	3,780	1	
+Burnet County	33,710	Bertram	4,660	1	
+Burnet County	33,710	Briggs	480	1	
+Burnet County	33,710	Burnet	11,640	1	
+Burnet County	33,710	Marble Falls	16,930	1	
+Caldwell County	35,806	Dale	7,710	1	
+Caldwell County	35,806	Fentress	399	1	
+Caldwell County	35,806	Lockhart	15,770	1	
+Caldwell County	35,806	Luling	6,730	1	
+Caldwell County	35,806	Martindale	2,670	1	
+Caldwell County	35,806	Maxwell	2,080	1	
+Caldwell County	35,806	Prairie Lea	447	1	
+Calhoun County	19,856	Point Comfort	770	1	
+Calhoun County	19,856	Port Lavaca	16,320	1	
+Calhoun County	19,856	Port O Connor	916	1	
+Calhoun County	19,856	Seadrift	1,850	1	
+Callahan County	10,908	Baird	2,280	1	
+Callahan County	10,908	Clyde	6,960	1	
+Callahan County	10,908	Cross Plains	1,590	1	
+Callahan County	10,908	Putnam	78	1	
+Cameron County	372,336	Brownsville	192,274	5	
+Cameron County	372,336	Combes	1,516	1	
+Cameron County	372,336	Harlingen	77,241	4	
+Cameron County	372,336	La Feria	10,480	1	
+Cameron County	372,336	Los Fresnos	14,880	1	
+Cameron County	372,336	Los Indios	1,257	1	
+Cameron County	372,336	Lozano	588	1	
+Cameron County	372,336	Olmito	4,230	1	
+Cameron County	372,336	Port Isabel	9,400	1	
+Cameron County	372,336	Rio Hondo	5,520	1	
+Cameron County	372,336	San Benito	46,250	1	
+Cameron County	372,336	Santa Maria	1,580	1	
+Cameron County	372,336	Santa Rosa	4,940	1	
+Cameron County	372,336	South Padre Island	2,180	1	
+Camp County	12,710	Leesburg	1,040	1	
+Camp County	12,710	Pittsburg	11,670	1	
+Carson County	4,980	Groom	690	1	
+Carson County	4,980	Panhandle	2,770	1	
+Carson County	4,980	Skellytown	430	1	
+Carson County	4,980	White Deer	1,090	1	
+Cass County	24,398	Atlanta	9,330	1	
+Cass County	24,398	Bivins	1,220	1	
+Cass County	24,398	Bloomburg	1,140	1	
+Cass County	24,398	Douglassville	890	1	
+Cass County	24,398	Hughes Springs	4,150	1	
+Cass County	24,398	Kildare	96	1	
+Cass County	24,398	Linden	3,360	1	
+Cass County	24,398	Marietta	550	1	
+Cass County	24,398	Mc Leod	602	1	
+Cass County	24,398	Queen City	3,060	1	
+Castro County	6,571	Dimmitt	4,590	1	
+Castro County	6,571	Hart	1,230	1	
+Castro County	6,571	Nazareth	690	1	
+Castro County	6,571	Summerfield	61	1	
+Chambers County	36,392	Anahuac	4,690	1	
+Chambers County	36,392	Baytown	20,410	1	
+Chambers County	36,392	Hankamer	960	1	
+Chambers County	36,392	Mont Belvieu	2,626	1	
+Chambers County	36,392	Stowell	686	1	
+Chambers County	36,392	Wallisville	670	1	
+Chambers County	36,392	Winnie	6,350	1	
+Cherokee County	38,085	Alto	3,160	1	
+Cherokee County	38,085	Cuney	125	1	
+Cherokee County	38,085	Gallatin	269	1	
+Cherokee County	38,085	Jacksonville	23,770	1	
+Cherokee County	38,085	Maydelle	162	1	
+Cherokee County	38,085	New Summerfield	1,053	1	
+Cherokee County	38,085	Reklaw	580	1	
+Cherokee County	38,085	Rusk	7,940	1	
+Cherokee County	38,085	Wells	1,026	1	
+Childress County	5,086	Childress	5,040	1	
+Childress County	5,086	Tell	46	1	
+Clay County	6,224	Bellevue	870	1	
+Clay County	6,224	Bluegrove	24	1	
+Clay County	6,224	Byers	590	1	
+Clay County	6,224	Henrietta	4,100	1	
+Clay County	6,224	Petrolia	640	1	
+Cochran County	2,764	Bledsoe	64	1	
+Cochran County	2,764	Morton	2,080	1	
+Cochran County	2,764	Whiteface	620	1	
+Coke County	2,744	Bronte	1,180	1	
+Coke County	2,744	Robert Lee	1,500	1	
+Coke County	2,744	Silver	0	1	
+Coke County	2,744	Tennyson	64	1	
+Coleman County	6,812	Burkett	154	1	
+Coleman County	6,812	Coleman	4,500	1	
+Coleman County	6,812	Goldsboro	60	1	
+Coleman County	6,812	Gouldbusk	130	1	
+Coleman County	6,812	Novice	200	1	
+Coleman County	6,812	Rockwood	38	1	
+Coleman County	6,812	Santa Anna	1,270	1	
+Coleman County	6,812	Talpa	210	1	
+Coleman County	6,812	Valera	167	1	
+Coleman County	6,812	Voss	83	1	
+Collin County	809,593	Allen	103,880	2	
+Collin County	809,593	Anna	14,220	1	
+Collin County	809,593	Blue Ridge	3,170	1	
+Collin County	809,593	Celina	10,590	1	
+Collin County	809,593	Copeville	575	1	
+Collin County	809,593	Dallas	21,910	1	
+Collin County	809,593	Farmersville	8,350	1	
+Collin County	809,593	Frisco	61,020	2	
+Collin County	809,593	Josephine	633	1	
+Collin County	809,593	Lavon	4,260	1	
+Collin County	809,593	Mckinney	169,620	3	
+Collin County	809,593	Melissa	8,600	1	
+Collin County	809,593	Nevada	4,630	1	
+Collin County	809,593	Plano	289,131	9	
+Collin County	809,593	Princeton	15,500	1	
+Collin County	809,593	Prosper	18,620	1	
+Collin County	809,593	Richardson	21,030	1	
+Collin County	809,593	Westminster	314	1	
+Collin County	809,593	Weston	280	1	
+Collin County	809,593	Wylie	53,260	1	
+Collingsworth County	2,521	Dodson	162	1	
+Collingsworth County	2,521	Quail	59	1	
+Collingsworth County	2,521	Sam Norwood	0	1	
+Collingsworth County	2,521	Wellington	2,300	1	
+Colorado County	19,779	Alleyton	820	1	
+Colorado County	19,779	Altair	233	1	
+Colorado County	19,779	Cat Spring	1,320	1	
+Colorado County	19,779	Columbus	6,310	1	
+Colorado County	19,779	Eagle Lake	4,360	1	
+Colorado County	19,779	Garwood	860	1	
+Colorado County	19,779	Glidden	350	1	
+Colorado County	19,779	Nada	278	1	
+Colorado County	19,779	Oakland	42	1	
+Colorado County	19,779	Rock Island	301	1	
+Colorado County	19,779	Sheridan	765	1	
+Colorado County	19,779	Weimar	4,140	1	
+Comal County	139,461	Bulverde	10,140	1	
+Comal County	139,461	Canyon Lake	15,360	1	
+Comal County	139,461	Fischer	1,050	1	
+Comal County	139,461	New Braunfels	90,951	4	
+Comal County	139,461	San Antonio	6,810	1	
+Comal County	139,461	Spring Branch	15,150	1	
+Comanche County	10,679	Comanche	6,300	1	
+Comanche County	10,679	De Leon	2,920	1	
+Comanche County	10,679	Energy	79	1	
+Comanche County	10,679	Gustine	840	1	
+Comanche County	10,679	Proctor	250	1	
+Comanche County	10,679	Sidney	290	1	
+Concho County	1,726	Eden	1,120	1	
+Concho County	1,726	Lowake	19	1	
+Concho County	1,726	Millersview	137	1	
+Concho County	1,726	Paint Rock	450	1	
+Cooke County	34,797	Era	520	1	
+Cooke County	34,797	Gainesville	25,428	2	
+Cooke County	34,797	Lindsay	1,230	1	
+Cooke County	34,797	Muenster	2,900	1	
+Cooke County	34,797	Myra	214	1	
+Cooke County	34,797	Rosston	85	1	
+Cooke County	34,797	Valley View	4,420	1	
+Coryell County	52,436	Copperas Cove	35,480	1	
+Coryell County	52,436	Evant	880	1	
+Coryell County	52,436	Flat	142	1	
+Coryell County	52,436	Gatesville	14,021	5	
+Coryell County	52,436	Jonesboro	660	1	
+Coryell County	52,436	Mound	83	1	
+Coryell County	52,436	Oglesby	900	1	
+Coryell County	52,436	Purmela	270	1	
+Cottle County	1,228	Cee Vee	18	1	
+Cottle County	1,228	Paducah	1,210	1	
+Crane County	4,780	Crane	4,780	1	
+Crane County	4,780	Girvin	0	1	
+Crockett County	3,720	El Paso	80	1	
+Crockett County	3,720	Ozona	3,640	1	
+Crosby County	4,870	Crosbyton	1,590	1	
+Crosby County	4,870	Lorenzo	1,290	1	
+Crosby County	4,870	Ralls	1,990	1	
+Culberson County	2,344	Van Horn	2,344	1	
+Dallam County	10,541	Dalhart	9,840	1	
+Dallam County	10,541	Kerrick	51	1	
+Dallam County	10,541	Texline	650	1	
+Dallas County	2,420,732	Addison	14,070	1	
+Dallas County	2,420,732	Balch Springs	23,110	1	
+Dallas County	2,420,732	Carrollton	50,192	2	
+Dallas County	2,420,732	Cedar Hill	46,260	2	
+Dallas County	2,420,732	Coppell	42,580	2	
+Dallas County	2,420,732	Dallas	1,160,626	105	
+Dallas County	2,420,732	Desoto	49,222	2	
+Dallas County	2,420,732	Duncanville	39,413	3	
+Dallas County	2,420,732	Garland	230,548	9	
+Dallas County	2,420,732	Grand Prairie	168,004	4	
+Dallas County	2,420,732	Hutchins	3,500	1	
+Dallas County	2,420,732	Irving	232,375	10	
+Dallas County	2,420,732	Lancaster	38,210	2	
+Dallas County	2,420,732	Mesquite	140,683	5	
+Dallas County	2,420,732	Richardson	76,760	4	
+Dallas County	2,420,732	Rowlett	55,739	3	
+Dallas County	2,420,732	Sachse	23,010	1	
+Dallas County	2,420,732	Seagoville	15,970	1	
+Dallas County	2,420,732	Sunnyvale	6,380	1	
+Dallas County	2,420,732	Wilmer	4,080	1	
+Dawson County	10,330	Lamesa	10,030	1	
+Dawson County	10,330	Welch	300	1	
+Deaf Smith County	19,537	Dawn	97	1	
+Deaf Smith County	19,537	Hereford	19,440	1	
+Delta County	4,006	Ben Franklin	157	1	
+Delta County	4,006	Cooper	2,720	1	
+Delta County	4,006	Enloe	109	1	
+Delta County	4,006	Klondike	520	1	
+Delta County	4,006	Lake Creek	200	1	
+Delta County	4,006	Pecan Gap	300	1	
+Denton County	736,181	Argyle	22,740	1	
+Denton County	736,181	Aubrey	27,410	1	
+Denton County	736,181	Carrollton	77,310	2	
+Denton County	736,181	Dallas	48,340	1	
+Denton County	736,181	Denton	126,507	10	
+Denton County	736,181	Flower Mound	68,070	3	
+Denton County	736,181	Frisco	56,190	1	
+Denton County	736,181	Justin	14,250	1	
+Denton County	736,181	Krum	8,530	1	
+Denton County	736,181	Lake Dallas	10,800	1	
+Denton County	736,181	Lewisville	114,564	4	
+Denton County	736,181	Little Elm	46,950	1	
+Denton County	736,181	Pilot Point	6,840	1	
+Denton County	736,181	Ponder	4,590	1	
+Denton County	736,181	Roanoke	34,490	1	
+Denton County	736,181	Sanger	13,720	1	
+Denton County	736,181	The Colony	54,880	1	
+Dickens County	1,690	Afton	121	1	
+Dickens County	1,690	Dickens	250	1	
+Dickens County	1,690	Mcadoo	79	1	
+Dickens County	1,690	Spur	1,240	1	
+Dimmit County	9,536	Asherton	1,220	1	
+Dimmit County	9,536	Big Wells	610	1	
+Dimmit County	9,536	Carrizo Springs	7,550	1	
+Dimmit County	9,536	Catarina	156	1	
+Donley County	2,797	Clarendon	2,410	1	
+Donley County	2,797	Hedley	320	1	
+Donley County	2,797	Lelia Lake	67	1	
+Duval County	10,660	Benavides	1,670	1	
+Duval County	10,660	Concepcion	330	1	
+Duval County	10,660	Freer	3,180	1	
+Duval County	10,660	Realitos	280	1	
+Duval County	10,660	San Diego	5,200	1	
+Eastland County	15,203	Carbon	540	1	
+Eastland County	15,203	Cisco	4,470	1	
+Eastland County	15,203	Desdemona	270	1	
+Eastland County	15,203	Eastland	4,790	1	
+Eastland County	15,203	Gorman	1,330	1	
+Eastland County	15,203	Olden	293	1	
+Eastland County	15,203	Ranger	2,300	1	
+Eastland County	15,203	Rising Star	1,210	1	
+Ector County	153,915	Gardendale	2,830	1	
+Ector County	153,915	Goldsmith	360	1	
+Ector County	153,915	Notrees	0	1	
+Ector County	153,915	Odessa	150,704	9	
+Ector County	153,915	Penwell	21	1	
+Edwards County	1,570	Barksdale	230	1	
+Edwards County	1,570	Rocksprings	1,340	1	
+El Paso County	778,308	Anthony	4,780	1	
+El Paso County	778,308	Canutillo	11,640	1	
+El Paso County	778,308	Clint	6,460	1	
+El Paso County	778,308	El Paso	728,169	137	
+El Paso County	778,308	Fabens	8,957	1	
+El Paso County	778,308	Fort Bliss	1,665	2	
+El Paso County	778,308	San Elizario	13,370	1	
+El Paso County	778,308	Tornillo	3,267	1	
+Ellis County	162,736	Avalon	430	1	
+Ellis County	162,736	Bardwell	738	1	
+Ellis County	162,736	Ennis	25,463	2	
+Ellis County	162,736	Ferris	6,790	1	
+Ellis County	162,736	Forreston	390	1	
+Ellis County	162,736	Italy	2,760	1	
+Ellis County	162,736	Maypearl	1,910	1	
+Ellis County	162,736	Midlothian	33,310	1	
+Ellis County	162,736	Milford	1,210	1	
+Ellis County	162,736	Palmer	4,710	1	
+Ellis County	162,736	Red Oak	37,570	1	
+Ellis County	162,736	Waxahachie	47,455	3	
+Erath County	29,760	Bluff Dale	1,220	1	
+Erath County	29,760	Dublin	7,330	1	
+Erath County	29,760	Lingleville	208	1	
+Erath County	29,760	Morgan Mill	299	1	
+Erath County	29,760	Stephenville	20,703	2	
+Falls County	11,268	Chilton	1,520	1	
+Falls County	11,268	Lott	1,990	1	
+Falls County	11,268	Marlin	5,380	1	
+Falls County	11,268	Reagan	205	1	
+Falls County	11,268	Rosebud	2,080	1	
+Falls County	11,268	Satin	93	1	
+Fannin County	26,923	Bailey	312	1	
+Fannin County	26,923	Bonham	9,770	1	
+Fannin County	26,923	Dodd City	950	1	
+Fannin County	26,923	Ector	810	1	
+Fannin County	26,923	Gober	108	1	
+Fannin County	26,923	Honey Grove	2,970	1	
+Fannin County	26,923	Ivanhoe	900	1	
+Fannin County	26,923	Ladonia	860	1	
+Fannin County	26,923	Leonard	3,970	1	
+Fannin County	26,923	Randolph	233	1	
+Fannin County	26,923	Ravenna	1,050	1	
+Fannin County	26,923	Savoy	1,430	1	
+Fannin County	26,923	Telephone	940	1	
+Fannin County	26,923	Trenton	2,150	1	
+Fannin County	26,923	Windom	470	1	
+Fayette County	22,163	Carmine	720	1	
+Fayette County	22,163	Ellinger	360	1	
+Fayette County	22,163	Fayetteville	1,730	1	
+Fayette County	22,163	Flatonia	2,690	1	
+Fayette County	22,163	La Grange	9,400	1	
+Fayette County	22,163	Muldoon	400	1	
+Fayette County	22,163	Plum	182	1	
+Fayette County	22,163	Round Top	1,010	1	
+Fayette County	22,163	Schulenburg	4,740	1	
+Fayette County	22,163	Warda	161	1	
+Fayette County	22,163	Warrenton	0	1	
+Fayette County	22,163	West Point	770	1	
+Fisher County	2,817	Mc Caulley	160	1	
+Fisher County	2,817	Roby	1,010	1	
+Fisher County	2,817	Rotan	1,530	1	
+Fisher County	2,817	Sylvester	117	1	
+Floyd County	5,272	Aiken	0	1	
+Floyd County	5,272	Dougherty	51	1	
+Floyd County	5,272	Floydada	3,050	1	
+Floyd County	5,272	Lockney	2,100	1	
+Floyd County	5,272	South Plains	71	1	
+Foard County	1,000	Crowell	1,000	1	
+Fort Bend County	627,326	Beasley	1,840	1	
+Fort Bend County	627,326	Fresno	21,870	1	
+Fort Bend County	627,326	Fulshear	13,190	1	
+Fort Bend County	627,326	Guy	770	1	
+Fort Bend County	627,326	Houston	29,290	1	
+Fort Bend County	627,326	Katy	98,080	1	
+Fort Bend County	627,326	Kendleton	449	1	
+Fort Bend County	627,326	Missouri City	100,830	2	
+Fort Bend County	627,326	Needville	10,250	1	
+Fort Bend County	627,326	Orchard	641	1	
+Fort Bend County	627,326	Richmond	123,990	3	
+Fort Bend County	627,326	Rosenberg	36,130	1	
+Fort Bend County	627,326	Simonton	1,080	1	
+Fort Bend County	627,326	Stafford	32,496	2	
+Fort Bend County	627,326	Sugar Land	156,188	5	
+Fort Bend County	627,326	Thompsons	232	1	
+Franklin County	6,860	Mount Vernon	5,610	1	
+Franklin County	6,860	Scroggins	1,250	1	
+Freestone County	15,848	Donie	510	1	
+Freestone County	15,848	Fairfield	7,010	1	
+Freestone County	15,848	Kirvin	138	1	
+Freestone County	15,848	Streetman	1,590	1	
+Freestone County	15,848	Teague	5,040	1	
+Freestone County	15,848	Wortham	1,560	1	
+Frio County	13,860	Bigfoot	660	1	
+Frio County	13,860	Dilley	3,650	1	
+Frio County	13,860	Moore	980	1	
+Frio County	13,860	Pearsall	8,570	1	
+Gaines County	18,080	Loop	390	1	
+Gaines County	18,080	Seagraves	2,820	1	
+Gaines County	18,080	Seminole	14,870	1	
+Galveston County	312,154	Bacliff	8,800	1	
+Galveston County	312,154	Dickinson	38,890	1	
+Galveston County	312,154	Friendswood	50,488	2	
+Galveston County	312,154	Galveston	43,152	6	
+Galveston County	312,154	Gilchrist	296	1	
+Galveston County	312,154	High Island	335	1	
+Galveston County	312,154	Hitchcock	8,560	1	
+Galveston County	312,154	Kemah	6,710	1	
+Galveston County	312,154	La Marque	13,850	1	
+Galveston County	312,154	League City	79,851	2	
+Galveston County	312,154	Port Bolivar	2,435	1	
+Galveston County	312,154	Santa Fe	18,700	2	
+Galveston County	312,154	Texas City	40,087	3	
+Garza County	3,948	Justiceburg	48	1	
+Garza County	3,948	Post	3,900	1	
+Gillespie County	23,966	Doss	210	1	
+Gillespie County	23,966	Fredericksburg	20,470	1	
+Gillespie County	23,966	Harper	2,400	1	
+Gillespie County	23,966	Stonewall	720	1	
+Gillespie County	23,966	Willow City	166	1	
+Glasscock County	1,080	Garden City	1,080	1	
+Goliad County	5,324	Berclair	233	1	
+Goliad County	5,324	Fannin	151	1	
+Goliad County	5,324	Goliad	4,800	1	
+Goliad County	5,324	Weesatche	140	1	
+Gonzales County	18,872	Belmont	70	1	
+Gonzales County	18,872	Cost	490	1	
+Gonzales County	18,872	Gonzales	11,110	1	
+Gonzales County	18,872	Harwood	920	1	
+Gonzales County	18,872	Leesville	290	1	
+Gonzales County	18,872	Nixon	3,290	1	
+Gonzales County	18,872	Ottine	32	1	
+Gonzales County	18,872	Smiley	860	1	
+Gonzales County	18,872	Waelder	1,760	1	
+Gonzales County	18,872	Wrightsboro	50	1	
+Gray County	20,762	Alanreed	40	1	
+Gray County	20,762	Lefors	604	1	
+Gray County	20,762	Mclean	950	1	
+Gray County	20,762	Pampa	19,168	2	
+Grayson County	114,177	Bells	2,810	1	
+Grayson County	114,177	Collinsville	2,940	1	
+Grayson County	114,177	Denison	26,110	2	
+Grayson County	114,177	Gordonville	1,400	1	
+Grayson County	114,177	Gunter	2,940	1	
+Grayson County	114,177	Howe	4,030	1	
+Grayson County	114,177	Pottsboro	6,680	1	
+Grayson County	114,177	Sadler	1,250	1	
+Grayson County	114,177	Sherman	43,351	3	
+Grayson County	114,177	Southmayd	367	1	
+Grayson County	114,177	Tioga	1,470	1	
+Grayson County	114,177	Tom Bean	1,249	1	
+Grayson County	114,177	Van Alstyne	7,180	1	
+Grayson County	114,177	Whitesboro	8,170	1	
+Grayson County	114,177	Whitewright	4,230	1	
+Gregg County	142,213	Easton	271	1	
+Gregg County	142,213	Gladewater	11,730	1	
+Gregg County	142,213	Judson	484	1	
+Gregg County	142,213	Kilgore	24,494	2	
+Gregg County	142,213	Longview	98,924	9	
+Gregg County	142,213	White Oak	6,310	1	
+Grimes County	24,160	Anderson	2,550	1	
+Grimes County	24,160	Bedias	2,520	1	
+Grimes County	24,160	Iola	2,190	1	
+Grimes County	24,160	Navasota	12,280	1	
+Grimes County	24,160	Plantersville	3,020	1	
+Grimes County	24,160	Richards	1,090	1	
+Grimes County	24,160	Roans Prairie	126	1	
+Grimes County	24,160	Shiro	384	1	
+Guadalupe County	123,009	Cibolo	35,880	1	
+Guadalupe County	123,009	Geronimo	419	1	
+Guadalupe County	123,009	Kingsbury	1,840	1	
+Guadalupe County	123,009	Marion	5,540	1	
+Guadalupe County	123,009	Mc Queeney	2,160	1	
+Guadalupe County	123,009	Schertz	34,510	1	
+Guadalupe County	123,009	Seguin	42,327	2	
+Guadalupe County	123,009	Staples	333	1	
+Hale County	30,392	Abernathy	3,070	1	
+Hale County	30,392	Cotton Center	196	1	
+Hale County	30,392	Edmonson	184	1	
+Hale County	30,392	Hale Center	2,600	1	
+Hale County	30,392	Petersburg	1,260	1	
+Hale County	30,392	Plainview	23,082	2	
+Hall County	2,641	Estelline	154	1	
+Hall County	2,641	Lakeview	167	1	
+Hall County	2,641	Memphis	1,980	1	
+Hall County	2,641	Turkey	340	1	
+Hamilton County	7,310	Carlton	180	1	
+Hamilton County	7,310	Hamilton	3,970	1	
+Hamilton County	7,310	Hico	3,070	1	
+Hamilton County	7,310	Pottsville	90	1	
+Hansford County	5,800	Gruver	1,800	1	
+Hansford County	5,800	Morse	250	1	
+Hansford County	5,800	Spearman	3,750	1	
+Hardeman County	3,350	Chillicothe	870	1	
+Hardeman County	3,350	Quanah	2,480	1	
+Hardin County	50,281	Batson	980	1	
+Hardin County	50,281	Kountze	7,690	1	
+Hardin County	50,281	Lumberton	19,330	1	
+Hardin County	50,281	Saratoga	780	1	
+Hardin County	50,281	Silsbee	14,830	1	
+Hardin County	50,281	Sour Lake	4,670	1	
+Hardin County	50,281	Thicket	421	1	
+Hardin County	50,281	Village Mills	1,284	1	
+Hardin County	50,281	Votaw	296	1	
+Harris County	4,144,163	Alief	1,018	1	
+Harris County	4,144,163	Barker	224	1	
+Harris County	4,144,163	Baytown	92,521	3	
+Harris County	4,144,163	Bellaire	18,900	2	
+Harris County	4,144,163	Channelview	32,090	1	
+Harris County	4,144,163	Crosby	27,120	1	
+Harris County	4,144,163	Cypress	155,383	3	
+Harris County	4,144,163	Deer Park	31,920	1	
+Harris County	4,144,163	Galena Park	9,640	1	
+Harris County	4,144,163	Highlands	10,230	1	
+Harris County	4,144,163	Hockley	13,910	1	
+Harris County	4,144,163	Houston	2,809,314	177	
+Harris County	4,144,163	Huffman	12,900	1	
+Harris County	4,144,163	Hufsmith	0	1	
+Harris County	4,144,163	Humble	143,278	4	
+Harris County	4,144,163	Katy	201,700	3	
+Harris County	4,144,163	Kingwood	65,873	3	
+Harris County	4,144,163	La Porte	35,253	2	
+Harris County	4,144,163	North Houston	0	1	
+Harris County	4,144,163	Pasadena	137,980	8	
+Harris County	4,144,163	Seabrook	21,420	1	
+Harris County	4,144,163	South Houston	15,890	1	
+Harris County	4,144,163	Spring	206,249	8	
+Harris County	4,144,163	Tomball	81,250	2	
+Harris County	4,144,163	Webster	20,100	1	
+Harrison County	50,272	Elysian Fields	525	1	
+Harrison County	50,272	Hallsville	9,010	1	
+Harrison County	50,272	Harleton	2,080	1	
+Harrison County	50,272	Jonesville	226	1	
+Harrison County	50,272	Karnack	1,920	1	
+Harrison County	50,272	Marshall	31,124	3	
+Harrison County	50,272	Scottsville	429	1	
+Harrison County	50,272	Waskom	4,580	1	
+Harrison County	50,272	Woodlawn	378	1	
+Hartley County	1,200	Channing	410	1	
+Hartley County	1,200	Hartley	790	1	
+Haskell County	4,399	Haskell	2,920	1	
+Haskell County	4,399	O Brien	128	1	
+Haskell County	4,399	Rochester	370	1	
+Haskell County	4,399	Rule	764	2	
+Haskell County	4,399	Weinert	217	1	
+Hays County	176,112	Austin	16,010	1	
+Hays County	176,112	Buda	31,310	1	
+Hays County	176,112	Driftwood	4,020	1	
+Hays County	176,112	Dripping Springs	15,950	1	
+Hays County	176,112	Kyle	48,090	1	
+Hays County	176,112	San Marcos	48,462	2	
+Hays County	176,112	Wimberley	12,270	1	
+Hemphill County	4,360	Canadian	4,360	1	
+Henderson County	70,557	Athens	20,290	2	
+Henderson County	70,557	Brownsboro	3,640	1	
+Henderson County	70,557	Chandler	8,290	1	
+Henderson County	70,557	Eustace	3,900	1	
+Henderson County	70,557	Kemp	11,570	1	
+Henderson County	70,557	Larue	2,230	1	
+Henderson County	70,557	Mabank	11,130	1	
+Henderson County	70,557	Malakoff	4,630	1	
+Henderson County	70,557	Murchison	2,650	1	
+Henderson County	70,557	Poynor	357	1	
+Henderson County	70,557	Trinidad	1,870	1	
+Hidalgo County	690,844	Alamo	28,010	1	
+Hidalgo County	690,844	Donna	37,100	1	
+Hidalgo County	690,844	Edcouch	9,620	1	
+Hidalgo County	690,844	Edinburg	122,391	4	
+Hidalgo County	690,844	Elsa	8,228	1	
+Hidalgo County	690,844	Hargill	1,006	1	
+Hidalgo County	690,844	Hidalgo	15,400	1	
+Hidalgo County	690,844	La Blanca	2,904	1	
+Hidalgo County	690,844	La Joya	4,630	1	
+Hidalgo County	690,844	La Villa	2,128	1	
+Hidalgo County	690,844	Linn	550	1	
+Hidalgo County	690,844	Los Ebanos	1,286	1	
+Hidalgo County	690,844	Mcallen	122,818	5	
+Hidalgo County	690,844	Mercedes	28,710	1	
+Hidalgo County	690,844	Mission	146,840	3	
+Hidalgo County	690,844	Penitas	10,100	1	
+Hidalgo County	690,844	Pharr	65,380	1	
+Hidalgo County	690,844	Progreso	4,374	1	
+Hidalgo County	690,844	San Juan	37,390	1	
+Hidalgo County	690,844	Sullivan City	5,090	1	
+Hidalgo County	690,844	Weslaco	36,889	2	
+Hill County	29,981	Abbott	1,040	1	
+Hill County	29,981	Aquilla	910	1	
+Hill County	29,981	Blum	1,420	1	
+Hill County	29,981	Brandon	107	1	
+Hill County	29,981	Bynum	430	1	
+Hill County	29,981	Covington	1,380	1	
+Hill County	29,981	Hillsboro	10,010	1	
+Hill County	29,981	Hubbard	2,060	1	
+Hill County	29,981	Irene	84	1	
+Hill County	29,981	Itasca	2,490	1	
+Hill County	29,981	Malone	390	1	
+Hill County	29,981	Mertens	230	1	
+Hill County	29,981	Mount Calm	980	1	
+Hill County	29,981	Penelope	320	1	
+Hill County	29,981	Whitney	8,130	1	
+Hockley County	19,420	Anton	1,270	1	
+Hockley County	19,420	Levelland	14,677	2	
+Hockley County	19,420	Pep	29	1	
+Hockley County	19,420	Ropesville	1,060	1	
+Hockley County	19,420	Smyer	670	1	
+Hockley County	19,420	Sundown	1,530	1	
+Hockley County	19,420	Whitharral	184	1	
+Hood County	50,313	Granbury	45,200	2	
+Hood County	50,313	Lipan	2,630	1	
+Hood County	50,313	Paluxy	63	1	
+Hood County	50,313	Tolar	2,420	1	
+Hopkins County	31,345	Brashear	990	1	
+Hopkins County	31,345	Como	1,840	1	
+Hopkins County	31,345	Cumby	2,260	1	
+Hopkins County	31,345	Dike	990	1	
+Hopkins County	31,345	Pickton	1,230	1	
+Hopkins County	31,345	Saltillo	820	1	
+Hopkins County	31,345	Sulphur Bluff	320	1	
+Hopkins County	31,345	Sulphur Springs	22,895	2	
+Houston County	17,273	Crockett	9,050	1	
+Houston County	17,273	Grapeland	4,290	1	
+Houston County	17,273	Kennard	1,220	1	
+Houston County	17,273	Latexo	417	1	
+Houston County	17,273	Lovelady	2,080	1	
+Houston County	17,273	Ratcliff	216	1	
+Howard County	28,732	Big Spring	26,867	2	
+Howard County	28,732	Coahoma	1,360	1	
+Howard County	28,732	Forsan	256	1	
+Howard County	28,732	Knott	249	1	
+Hudspeth County	2,790	Dell City	604	1	
+Hudspeth County	2,790	Fort Hancock	1,560	1	
+Hudspeth County	2,790	Salt Flat	105	1	
+Hudspeth County	2,790	Sierra Blanca	521	1	
+Hunt County	69,268	Caddo Mills	6,030	1	
+Hunt County	69,268	Campbell	2,470	1	
+Hunt County	69,268	Celeste	2,390	1	
+Hunt County	69,268	Commerce	7,569	2	
+Hunt County	69,268	Greenville	32,456	4	
+Hunt County	69,268	Lone Oak	2,930	1	
+Hunt County	69,268	Merit	353	1	
+Hunt County	69,268	Quinlan	12,340	1	
+Hunt County	69,268	Wolfe City	2,730	1	
+Hutchinson County	20,415	Borger	13,754	2	
+Hutchinson County	20,415	Fritch	4,250	1	
+Hutchinson County	20,415	Sanford	361	1	
+Hutchinson County	20,415	Stinnett	2,050	1	
+Irion County	1,383	Barnhart	133	1	
+Irion County	1,383	Mertzon	1,250	1	
+Jack County	6,584	Bryson	670	1	
+Jack County	6,584	Jacksboro	4,710	1	
+Jack County	6,584	Jermyn	144	1	
+Jack County	6,584	Perrin	1,060	1	
+Jackson County	13,662	Edna	7,900	1	
+Jackson County	13,662	Francitas	112	1	
+Jackson County	13,662	Ganado	3,730	1	
+Jackson County	13,662	La Salle	126	1	
+Jackson County	13,662	La Ward	327	1	
+Jackson County	13,662	Lolita	930	1	
+Jackson County	13,662	Vanderbilt	537	1	
+Jasper County	30,630	Brookeland	1,910	1	
+Jasper County	30,630	Buna	7,720	1	
+Jasper County	30,630	Evadale	1,400	1	
+Jasper County	30,630	Jasper	13,320	1	
+Jasper County	30,630	Kirbyville	6,280	1	
+Jeff Davis County	1,816	Fort Davis	1,680	1	
+Jeff Davis County	1,816	Valentine	136	1	
+Jefferson County	220,432	Beaumont	116,898	14	
+Jefferson County	220,432	China	1,513	1	
+Jefferson County	220,432	Groves	15,400	1	
+Jefferson County	220,432	Hamshire	1,540	1	
+Jefferson County	220,432	Nederland	21,130	1	
+Jefferson County	220,432	Nome	726	1	
+Jefferson County	220,432	Port Arthur	50,505	4	
+Jefferson County	220,432	Port Neches	12,400	1	
+Jefferson County	220,432	Sabine Pass	320	1	
+Jim Hogg County	4,510	Guerra	0	1	
+Jim Hogg County	4,510	Hebbronville	4,510	1	
+Jim Wells County	38,874	Alice	26,926	2	
+Jim Wells County	38,874	Ben Bolt	538	1	
+Jim Wells County	38,874	Orange Grove	5,350	1	
+Jim Wells County	38,874	Premont	2,840	1	
+Jim Wells County	38,874	Sandia	3,220	1	
+Johnson County	162,581	Alvarado	19,540	1	
+Johnson County	162,581	Burleson	63,601	2	
+Johnson County	162,581	Cleburne	38,890	2	
+Johnson County	162,581	Godley	3,770	1	
+Johnson County	162,581	Grandview	5,640	1	
+Johnson County	162,581	Joshua	16,780	1	
+Johnson County	162,581	Keene	4,200	1	
+Johnson County	162,581	Lillian	530	1	
+Johnson County	162,581	Rio Vista	2,100	1	
+Johnson County	162,581	Venus	7,530	1	
+Jones County	11,257	Anson	2,980	1	
+Jones County	11,257	Avoca	177	1	
+Jones County	11,257	Hamlin	2,010	1	
+Jones County	11,257	Hawley	2,730	1	
+Jones County	11,257	Lueders	520	1	
+Jones County	11,257	Stamford	2,840	1	
+Karnes County	12,792	Ecleto	0	1	
+Karnes County	12,792	Falls City	2,180	1	
+Karnes County	12,792	Gillett	320	1	
+Karnes County	12,792	Hobson	510	1	
+Karnes County	12,792	Karnes City	3,930	1	
+Karnes County	12,792	Kenedy	4,510	1	
+Karnes County	12,792	Panna Maria	22	1	
+Karnes County	12,792	Runge	1,320	1	
+Kaufman County	103,175	Crandall	5,260	1	
+Kaufman County	103,175	Elmo	246	1	
+Kaufman County	103,175	Forney	40,870	1	
+Kaufman County	103,175	Kaufman	18,090	1	
+Kaufman County	103,175	Mabank	6,260	1	
+Kaufman County	103,175	Rosser	369	1	
+Kaufman County	103,175	Scurry	4,250	1	
+Kaufman County	103,175	Terrell	27,830	2	
+Kendall County	38,382	Bergheim	560	1	
+Kendall County	38,382	Boerne	31,860	1	
+Kendall County	38,382	Comfort	5,370	1	
+Kendall County	38,382	Kendalia	400	1	
+Kendall County	38,382	Waring	192	1	
+Kenedy County	339	Armstrong	60	1	
+Kenedy County	339	Sarita	279	1	
+Kent County	581	Girard	111	1	
+Kent County	581	Jayton	470	1	
+Kerr County	44,586	Center Point	2,800	1	
+Kerr County	44,586	Hunt	1,390	1	
+Kerr County	44,586	Ingram	4,490	1	
+Kerr County	44,586	Kerrville	34,916	2	
+Kerr County	44,586	Mountain Home	990	1	
+Kimble County	3,492	Junction	3,160	1	
+Kimble County	3,492	London	250	1	
+Kimble County	3,492	Roosevelt	64	1	
+Kimble County	3,492	Telegraph	18	1	
+King County	236	Guthrie	236	1	
+Kinney County	2,670	Brackettville	2,670	1	
+Kleberg County	26,250	Kingsville	24,760	2	
+Kleberg County	26,250	Riviera	1,490	1	
+Knox County	3,180	Benjamin	250	1	
+Knox County	3,180	Goree	260	1	
+Knox County	3,180	Knox City	1,150	1	
+Knox County	3,180	Munday	1,520	1	
+La Salle County	5,313	Artesia Wells	15	1	
+La Salle County	5,313	Cotulla	4,300	1	
+La Salle County	5,313	Encinal	882	1	
+La Salle County	5,313	Fowlerton	116	1	
+Lamar County	42,515	Arthur City	830	1	
+Lamar County	42,515	Blossom	2,690	1	
+Lamar County	42,515	Brookston	920	1	
+Lamar County	42,515	Chicota	137	1	
+Lamar County	42,515	Cunningham	92	1	
+Lamar County	42,515	Deport	840	1	
+Lamar County	42,515	Paris	29,768	3	
+Lamar County	42,515	Pattonville	830	1	
+Lamar County	42,515	Petty	208	1	
+Lamar County	42,515	Powderly	3,180	1	
+Lamar County	42,515	Roxton	720	1	
+Lamar County	42,515	Sumner	2,300	1	
+Lamb County	11,883	Amherst	830	1	
+Lamb County	11,883	Earth	1,210	1	
+Lamb County	11,883	Fieldton	39	1	
+Lamb County	11,883	Littlefield	5,970	1	
+Lamb County	11,883	Olton	2,250	1	
+Lamb County	11,883	Spade	134	1	
+Lamb County	11,883	Springlake	260	1	
+Lamb County	11,883	Sudan	1,190	1	
+Lampasas County	19,690	Kempner	7,710	1	
+Lampasas County	19,690	Lampasas	10,690	1	
+Lampasas County	19,690	Lometa	1,290	1	
+Lavaca County	21,872	Hallettsville	7,170	1	
+Lavaca County	21,872	Moulton	1,650	1	
+Lavaca County	21,872	Shiner	3,970	1	
+Lavaca County	21,872	Sublime	49	1	
+Lavaca County	21,872	Sweet Home	213	1	
+Lavaca County	21,872	Yoakum	8,820	1	
+Lee County	15,560	Dime Box	920	1	
+Lee County	15,560	Giddings	8,890	1	
+Lee County	15,560	Ledbetter	940	1	
+Lee County	15,560	Lexington	4,050	1	
+Lee County	15,560	Lincoln	760	1	
+Leon County	17,273	Buffalo	4,760	1	
+Leon County	17,273	Centerville	2,990	1	
+Leon County	17,273	Concord	24	1	
+Leon County	17,273	Flynn	329	1	
+Leon County	17,273	Jewett	2,310	1	
+Leon County	17,273	Leona	370	1	
+Leon County	17,273	Marquez	1,440	1	
+Leon County	17,273	Normangee	3,090	1	
+Leon County	17,273	Oakwood	1,960	1	
+Liberty County	64,824	Cleveland	17,260	1	
+Liberty County	64,824	Daisetta	972	1	
+Liberty County	64,824	Dayton	27,420	1	
+Liberty County	64,824	Devers	840	1	
+Liberty County	64,824	Hardin	1,780	1	
+Liberty County	64,824	Hull	1,410	1	
+Liberty County	64,824	Liberty	13,040	1	
+Liberty County	64,824	Raywood	677	1	
+Liberty County	64,824	Romayor	372	1	
+Liberty County	64,824	Rye	1,053	1	
+Limestone County	19,397	Coolidge	1,180	1	
+Limestone County	19,397	Groesbeck	5,450	1	
+Limestone County	19,397	Kosse	950	1	
+Limestone County	19,397	Mexia	10,120	1	
+Limestone County	19,397	Prairie Hill	184	1	
+Limestone County	19,397	Tehuacana	293	1	
+Limestone County	19,397	Thornton	1,220	1	
+Lipscomb County	3,389	Booker	1,790	1	
+Lipscomb County	3,389	Darrouzett	380	1	
+Lipscomb County	3,389	Follett	690	1	
+Lipscomb County	3,389	Higgins	480	1	
+Lipscomb County	3,389	Lipscomb	49	1	
+Live Oak County	7,997	Dinero	106	1	
+Live Oak County	7,997	George West	4,510	1	
+Live Oak County	7,997	Oakville	49	1	
+Live Oak County	7,997	Three Rivers	3,200	1	
+Live Oak County	7,997	Whitsett	132	1	
+Llano County	19,114	Bluffton	166	1	
+Llano County	19,114	Buchanan Dam	1,530	1	
+Llano County	19,114	Castell	76	1	
+Llano County	19,114	Horseshoe Bay	5,130	1	
+Llano County	19,114	Kingsland	5,970	1	
+Llano County	19,114	Llano	5,430	1	
+Llano County	19,114	Tow	660	1	
+Llano County	19,114	Valley Spring	152	1	
+Loving County	49	Mentone	49	1	
+Lubbock County	242,815	Idalou	3,100	1	
+Lubbock County	242,815	Lubbock	219,085	27	
+Lubbock County	242,815	New Deal	610	1	
+Lubbock County	242,815	Ransom Canyon	1,000	1	
+Lubbock County	242,815	Shallowater	5,420	1	
+Lubbock County	242,815	Slaton	6,750	1	
+Lubbock County	242,815	Wolfforth	6,850	1	
+Lynn County	5,221	New Home	371	1	
+Lynn County	5,221	Odonnell	1,110	1	
+Lynn County	5,221	Tahoka	2,680	1	
+Lynn County	5,221	Wilson	1,060	1	
+Madison County	10,270	Madisonville	7,180	1	
+Madison County	10,270	Midway	1,440	1	
+Madison County	10,270	North Zulch	1,650	1	
+Marion County	8,648	Avinger	1,980	1	
+Marion County	8,648	Jefferson	6,520	1	
+Marion County	8,648	Lodi	148	1	
+Martin County	5,566	Ackerly	640	1	
+Martin County	5,566	Lenorah	270	1	
+Martin County	5,566	Stanton	4,460	1	
+Martin County	5,566	Tarzan	196	1	
+Mason County	3,499	Art	99	1	
+Mason County	3,499	Fredonia	146	1	
+Mason County	3,499	Mason	3,120	1	
+Mason County	3,499	Pontotoc	134	1	
+Matagorda County	34,547	Bay City	21,071	2	
+Matagorda County	34,547	Blessing	1,375	1	
+Matagorda County	34,547	Cedar Lane	372	1	
+Matagorda County	34,547	Collegeport	58	1	
+Matagorda County	34,547	Elmaton	141	1	
+Matagorda County	34,547	Markham	1,236	1	
+Matagorda County	34,547	Matagorda	457	1	
+Matagorda County	34,547	Midfield	353	1	
+Matagorda County	34,547	Palacios	6,650	1	
+Matagorda County	34,547	Pledger	200	1	
+Matagorda County	34,547	Van Vleck	2,210	1	
+Matagorda County	34,547	Wadsworth	424	1	
+Maverick County	61,701	Eagle Pass	60,646	2	
+Maverick County	61,701	El Indio	245	1	
+Maverick County	61,701	Quemado	810	1	
+McCulloch County	7,412	Brady	6,300	1	
+McCulloch County	7,412	Doole	45	1	
+McCulloch County	7,412	Lohn	200	1	
+McCulloch County	7,412	Melvin	230	1	
+McCulloch County	7,412	Rochelle	540	1	
+McCulloch County	7,412	Voca	97	1	
+McLennan County	213,716	Axtell	2,130	1	
+McLennan County	213,716	Bruceville	1,550	1	
+McLennan County	213,716	China Spring	4,970	1	
+McLennan County	213,716	Crawford	2,760	1	
+McLennan County	213,716	Eddy	2,600	1	
+McLennan County	213,716	Elm Mott	2,630	1	
+McLennan County	213,716	Hewitt	13,750	1	
+McLennan County	213,716	Leroy	217	1	
+McLennan County	213,716	Lorena	7,820	1	
+McLennan County	213,716	Mart	2,660	1	
+McLennan County	213,716	Mc Gregor	9,490	1	
+McLennan County	213,716	Moody	4,600	1	
+McLennan County	213,716	Riesel	2,540	1	
+McLennan County	213,716	Ross	259	1	
+McLennan County	213,716	Waco	126,590	16	
+McLennan County	213,716	West	5,730	1	
+McLennan County	213,716	Woodway	23,420	1	
+McMullen County	860	Calliham	120	1	
+McMullen County	860	Tilden	740	1	
+Medina County	37,200	Castroville	7,340	1	
+Medina County	37,200	D Hanis	1,100	1	
+Medina County	37,200	Devine	9,000	1	
+Medina County	37,200	Hondo	10,610	1	
+Medina County	37,200	La Coste	1,570	1	
+Medina County	37,200	Mico	1,790	1	
+Medina County	37,200	Natalia	4,630	1	
+Medina County	37,200	Rio Medina	620	1	
+Medina County	37,200	Yancey	540	1	
+Menard County	1,728	Fort Mc Kavett	107	1	
+Menard County	1,728	Hext	61	1	
+Menard County	1,728	Menard	1,560	1	
+Midland County	147,952	Midland	147,952	11	
+Milam County	20,836	Buckholts	1,100	1	
+Milam County	20,836	Cameron	6,940	1	
+Milam County	20,836	Davilla	176	1	
+Milam County	20,836	Gause	780	1	
+Milam County	20,836	Milano	1,320	1	
+Milam County	20,836	Rockdale	7,720	1	
+Milam County	20,836	Thorndale	2,800	1	
+Mills County	3,921	Goldthwaite	2,990	1	
+Mills County	3,921	Mullin	590	1	
+Mills County	3,921	Priddy	257	1	
+Mills County	3,921	Star	84	1	
+Mitchell County	6,300	Colorado City	5,110	1	
+Mitchell County	6,300	Loraine	800	1	
+Mitchell County	6,300	Westbrook	390	1	
+Montague County	17,948	Bowie	8,490	1	
+Montague County	17,948	Forestburg	900	1	
+Montague County	17,948	Montague	650	1	
+Montague County	17,948	Nocona	4,500	1	
+Montague County	17,948	Ringgold	258	1	
+Montague County	17,948	Saint Jo	1,440	1	
+Montague County	17,948	Sunset	1,710	1	
+Montgomery County	482,073	Conroe	135,458	8	
+Montgomery County	482,073	Dobbin	473	1	
+Montgomery County	482,073	Magnolia	59,562	3	
+Montgomery County	482,073	Montgomery	47,240	2	
+Montgomery County	482,073	New Caney	21,970	1	
+Montgomery County	482,073	Pinehurst	5,050	1	
+Montgomery County	482,073	Porter	32,230	1	
+Montgomery County	482,073	Splendora	10,890	1	
+Montgomery County	482,073	Spring	139,530	4	
+Montgomery County	482,073	Willis	29,670	2	
+Moore County	23,234	Amarillo	1,174	1	
+Moore County	23,234	Cactus	3,790	1	
+Moore County	23,234	Dumas	16,280	1	
+Moore County	23,234	Sunray	1,990	1	
+Morris County	11,281	Cason	371	1	
+Morris County	11,281	Daingerfield	4,580	1	
+Morris County	11,281	Lone Star	1,610	1	
+Morris County	11,281	Naples	2,340	1	
+Morris County	11,281	Omaha	2,380	1	
+Motley County	901	Flomot	71	1	
+Motley County	901	Matador	630	1	
+Motley County	901	Roaring Springs	200	1	
+Nacogdoches County	52,707	Chireno	970	1	
+Nacogdoches County	52,707	Cushing	2,080	1	
+Nacogdoches County	52,707	Douglass	1,260	1	
+Nacogdoches County	52,707	Etoile	1,040	1	
+Nacogdoches County	52,707	Garrison	2,880	1	
+Nacogdoches County	52,707	Martinsville	259	1	
+Nacogdoches County	52,707	Nacogdoches	43,735	5	
+Nacogdoches County	52,707	Sacul	111	1	
+Nacogdoches County	52,707	Woden	372	1	
+Navarro County	43,882	Barry	1,210	1	
+Navarro County	43,882	Blooming Grove	1,480	1	
+Navarro County	43,882	Chatfield	280	1	
+Navarro County	43,882	Corsicana	30,802	3	
+Navarro County	43,882	Dawson	1,190	1	
+Navarro County	43,882	Frost	1,500	1	
+Navarro County	43,882	Kerens	2,690	1	
+Navarro County	43,882	Powell	610	1	
+Navarro County	43,882	Purdon	1,200	1	
+Navarro County	43,882	Rice	2,510	1	
+Navarro County	43,882	Richland	410	1	
+Newton County	9,000	Bon Wier	1,040	1	
+Newton County	9,000	Burkeville	1,110	1	
+Newton County	9,000	Call	1,360	1	
+Newton County	9,000	Deweyville	1,360	1	
+Newton County	9,000	Newton	3,620	1	
+Newton County	9,000	Wiergate	510	1	
+Nolan County	13,605	Blackwell	510	1	
+Nolan County	13,605	Maryneal	142	1	
+Nolan County	13,605	Nolan	83	1	
+Nolan County	13,605	Roscoe	1,700	1	
+Nolan County	13,605	Sweetwater	11,170	1	
+Nueces County	310,407	Agua Dulce	930	1	
+Nueces County	310,407	Aransas Pass	2,158	1	
+Nueces County	310,407	Banquete	1,211	1	
+Nueces County	310,407	Bishop	3,940	1	
+Nueces County	310,407	Chapman Ranch	119	1	
+Nueces County	310,407	Corpus Christi	277,906	34	
+Nueces County	310,407	Driscoll	883	1	
+Nueces County	310,407	Port Aransas	3,530	1	
+Nueces County	310,407	Robstown	19,730	1	
+Ochiltree County	11,255	Farnsworth	106	1	
+Ochiltree County	11,255	Perryton	11,080	1	
+Ochiltree County	11,255	Waka	69	1	
+Oldham County	2,170	Adrian	240	1	
+Oldham County	2,170	Boys Ranch	430	1	
+Oldham County	2,170	Vega	1,090	1	
+Oldham County	2,170	Wildorado	410	1	
+Orange County	79,292	Bridge City	8,980	1	
+Orange County	79,292	Mauriceville	1,664	1	
+Orange County	79,292	Orange	43,717	3	
+Orange County	79,292	Orangefield	716	1	
+Orange County	79,292	Vidor	24,215	2	
+Palo Pinto County	22,920	Gordon	940	1	
+Palo Pinto County	22,920	Graford	1,850	1	
+Palo Pinto County	22,920	Mineral Wells	16,750	1	
+Palo Pinto County	22,920	Mingus	380	1	
+Palo Pinto County	22,920	Palo Pinto	790	1	
+Palo Pinto County	22,920	Santo	1,320	1	
+Palo Pinto County	22,920	Strawn	890	1	
+Panola County	20,766	Beckville	2,500	1	
+Panola County	20,766	Carthage	13,170	1	
+Panola County	20,766	Clayton	123	1	
+Panola County	20,766	De Berry	2,400	1	
+Panola County	20,766	Gary	1,740	1	
+Panola County	20,766	Long Branch	520	1	
+Panola County	20,766	Panola	313	1	
+Parker County	106,813	Aledo	15,870	1	
+Parker County	106,813	Cresson	1,530	1	
+Parker County	106,813	Dennis	285	1	
+Parker County	106,813	Millsap	2,670	1	
+Parker County	106,813	Mineral Wells	1,263	1	
+Parker County	106,813	Peaster	325	1	
+Parker County	106,813	Poolville	2,150	1	
+Parker County	106,813	Springtown	16,970	1	
+Parker County	106,813	Weatherford	65,570	4	
+Parker County	106,813	Whitt	180	1	
+Parmer County	9,970	Bovina	2,160	1	
+Parmer County	9,970	Farwell	1,990	1	
+Parmer County	9,970	Friona	5,600	1	
+Parmer County	9,970	Lazbuddie	220	1	
+Pecos County	13,179	Coyanosa	218	1	
+Pecos County	13,179	Fort Stockton	10,960	1	
+Pecos County	13,179	Imperial	251	1	
+Pecos County	13,179	Iraan	1,404	1	
+Pecos County	13,179	Sheffield	346	1	
+Polk County	47,670	Ace	374	1	
+Polk County	47,670	Camden	239	1	
+Polk County	47,670	Corrigan	3,450	1	
+Polk County	47,670	Dallardsville	119	1	
+Polk County	47,670	Goodrich	1,750	1	
+Polk County	47,670	Leggett	542	1	
+Polk County	47,670	Livingston	36,186	2	
+Polk County	47,670	Moscow	800	1	
+Polk County	47,670	Onalaska	4,210	1	
+Potter County	109,135	Amarillo	107,924	21	
+Potter County	109,135	Bushland	1,190	1	
+Potter County	109,135	Masterson	21	1	
+Presidio County	9,204	Marfa	2,190	1	
+Presidio County	9,204	Presidio	6,937	1	
+Presidio County	9,204	Redford	77	1	
+Rains County	8,130	Emory	5,300	1	
+Rains County	8,130	Point	2,830	1	
+Randall County	113,632	Amarillo	96,910	5	
+Randall County	113,632	Canyon	16,575	2	
+Randall County	113,632	Umbarger	147	1	
+Reagan County	3,790	Big Lake	3,790	1	
+Real County	2,800	Camp Wood	1,120	1	
+Real County	2,800	Leakey	1,490	1	
+Real County	2,800	Rio Frio	190	1	
+Red River County	10,430	Annona	660	1	
+Red River County	10,430	Avery	1,410	1	
+Red River County	10,430	Bagwell	550	1	
+Red River County	10,430	Bogata	1,990	1	
+Red River County	10,430	Clarksville	4,060	1	
+Red River County	10,430	Detroit	1,760	1	
+Reeves County	10,573	Balmorhea	580	1	
+Reeves County	10,573	Orla	38	1	
+Reeves County	10,573	Pecos	9,700	1	
+Reeves County	10,573	Saragosa	168	1	
+Reeves County	10,573	Toyah	58	1	
+Reeves County	10,573	Toyahvale	29	1	
+Refugio County	6,812	Austwell	212	1	
+Refugio County	6,812	Bayside	370	1	
+Refugio County	6,812	Refugio	3,390	1	
+Refugio County	6,812	Tivoli	610	1	
+Refugio County	6,812	Woodsboro	2,230	1	
+Roberts County	740	Miami	740	1	
+Robertson County	14,310	Bremond	1,720	1	
+Robertson County	14,310	Calvert	1,190	1	
+Robertson County	14,310	Franklin	4,130	1	
+Robertson County	14,310	Hearne	6,550	1	
+Robertson County	14,310	Mumford	139	1	
+Robertson County	14,310	New Baden	274	1	
+Robertson County	14,310	Wheelock	307	1	
+Rockwall County	87,976	Fate	706	1	
+Rockwall County	87,976	Rockwall	62,230	2	
+Rockwall County	87,976	Royse City	25,040	1	
+Runnels County	9,762	Ballinger	4,310	1	
+Runnels County	9,762	Miles	2,000	1	
+Runnels County	9,762	Norton	122	1	
+Runnels County	9,762	Rowena	540	1	
+Runnels County	9,762	Winters	2,790	1	
+Rusk County	38,175	Henderson	23,430	3	
+Rusk County	38,175	Joinerville	271	1	
+Rusk County	38,175	Laird Hill	591	1	
+Rusk County	38,175	Laneville	940	1	
+Rusk County	38,175	Minden	115	1	
+Rusk County	38,175	Mount Enterprise	2,260	1	
+Rusk County	38,175	New London	682	1	
+Rusk County	38,175	Overton	5,210	1	
+Rusk County	38,175	Price	261	1	
+Rusk County	38,175	Selman City	225	1	
+Rusk County	38,175	Tatum	4,190	1	
+Sabine County	8,280	Bronson	1,370	1	
+Sabine County	8,280	Hemphill	4,630	1	
+Sabine County	8,280	Milam	690	1	
+Sabine County	8,280	Pineland	1,590	1	
+San Augustine County	6,280	Broaddus	1,140	1	
+San Augustine County	6,280	San Augustine	5,140	1	
+San Jacinto County	28,670	Cleveland	14,430	1	
+San Jacinto County	28,670	Coldspring	5,340	1	
+San Jacinto County	28,670	Oakhurst	640	1	
+San Jacinto County	28,670	Pointblank	1,840	1	
+San Jacinto County	28,670	Shepherd	6,420	1	
+San Patricio County	66,737	Aransas Pass	9,640	1	
+San Patricio County	66,737	Edroy	512	1	
+San Patricio County	66,737	Gregory	2,165	1	
+San Patricio County	66,737	Ingleside	9,470	1	
+San Patricio County	66,737	Mathis	8,370	1	
+San Patricio County	66,737	Odem	4,660	1	
+San Patricio County	66,737	Portland	17,560	1	
+San Patricio County	66,737	Sinton	8,850	1	
+San Patricio County	66,737	Taft	5,510	1	
+San Saba County	4,750	Bend	60	1	
+San Saba County	4,750	Cherokee	500	1	
+San Saba County	4,750	Richland Springs	610	1	
+San Saba County	4,750	San Saba	3,580	1	
+Schleicher County	2,620	Eldorado	2,620	1	
+Scurry County	15,622	Dunn	15	1	
+Scurry County	15,622	Fluvanna	182	1	
+Scurry County	15,622	Hermleigh	910	1	
+Scurry County	15,622	Ira	470	1	
+Scurry County	15,622	Snyder	14,045	2	
+Shackelford County	2,560	Albany	2,180	1	
+Shackelford County	2,560	Moran	380	1	
+Shelby County	23,690	Center	12,910	1	
+Shelby County	23,690	Joaquin	2,950	1	
+Shelby County	23,690	Shelbyville	2,050	1	
+Shelby County	23,690	Tenaha	2,820	1	
+Shelby County	23,690	Timpson	2,960	1	
+Sherman County	2,350	Stratford	2,350	1	
+Sherman County	2,350	Texhoma	0	1	
+Smith County	201,964	Arp	3,440	1	
+Smith County	201,964	Bullard	10,570	1	
+Smith County	201,964	Flint	12,440	1	
+Smith County	201,964	Lindale	18,080	1	
+Smith County	201,964	Troup	6,740	1	
+Smith County	201,964	Tyler	135,394	15	
+Smith County	201,964	Whitehouse	12,370	1	
+Smith County	201,964	Winona	2,930	1	
+Somervell County	7,320	Glen Rose	6,390	1	
+Somervell County	7,320	Nemo	410	1	
+Somervell County	7,320	Rainbow	520	1	
+Starr County	59,845	Delmita	280	1	
+Starr County	59,845	Falcon Heights	674	1	
+Starr County	59,845	Garciasville	2,899	1	
+Starr County	59,845	Grulla	2,881	1	
+Starr County	59,845	Rio Grande City	34,350	1	
+Starr County	59,845	Roma	17,920	1	
+Starr County	59,845	Salineno	241	1	
+Starr County	59,845	San Isidro	350	1	
+Starr County	59,845	Santa Elena	250	1	
+Stephens County	7,156	Breckenridge	6,980	1	
+Stephens County	7,156	Caddo	176	1	
+Sterling County	1,230	Sterling City	1,230	1	
+Stonewall County	1,169	Aspermont	1,060	1	
+Stonewall County	1,169	Old Glory	109	1	
+Sutton County	3,880	Sonora	3,880	1	
+Swisher County	6,440	Happy	970	1	
+Swisher County	6,440	Kress	1,040	1	
+Swisher County	6,440	Tulia	4,430	1	
+Tarrant County	1,788,370	Arlington	366,508	19	
+Tarrant County	1,788,370	Azle	25,868	2	
+Tarrant County	1,788,370	Bedford	46,827	3	
+Tarrant County	1,788,370	Colleyville	24,990	1	
+Tarrant County	1,788,370	Crowley	23,580	1	
+Tarrant County	1,788,370	Dallas	550	1	
+Tarrant County	1,788,370	Euless	62,230	2	
+Tarrant County	1,788,370	Fort Worth	816,254	56	
+Tarrant County	1,788,370	Grand Prairie	11,250	1	
+Tarrant County	1,788,370	Grapevine	48,463	2	
+Tarrant County	1,788,370	Haltom City	29,980	1	
+Tarrant County	1,788,370	Haslet	18,960	1	
+Tarrant County	1,788,370	Hurst	40,540	2	
+Tarrant County	1,788,370	Keller	107,820	2	
+Tarrant County	1,788,370	Kennedale	7,320	1	
+Tarrant County	1,788,370	Mansfield	65,860	1	
+Tarrant County	1,788,370	Naval Air Station/ Jrb	430	1	
+Tarrant County	1,788,370	North Richland Hills	60,950	2	
+Tarrant County	1,788,370	Southlake	29,990	1	
+Taylor County	123,517	Abilene	107,657	10	
+Taylor County	123,517	Buffalo Gap	1,110	1	
+Taylor County	123,517	Dyess Afb	2,750	1	
+Taylor County	123,517	Lawn	470	1	
+Taylor County	123,517	Merkel	4,550	1	
+Taylor County	123,517	Ovalo	710	1	
+Taylor County	123,517	Trent	590	1	
+Taylor County	123,517	Tuscola	4,330	1	
+Taylor County	123,517	Tye	1,120	1	
+Taylor County	123,517	Wingate	230	1	
+Terrell County	779	Dryden	50	1	
+Terrell County	779	Sanderson	729	1	
+Terry County	10,462	Brownfield	9,330	1	
+Terry County	10,462	Meadow	880	1	
+Terry County	10,462	Wellman	252	1	
+Throckmorton County	1,250	Throckmorton	870	1	
+Throckmorton County	1,250	Woodson	380	1	
+Titus County	31,058	Cookville	1,320	1	
+Titus County	31,058	Mount Pleasant	27,878	2	
+Titus County	31,058	Talco	1,180	1	
+Titus County	31,058	Winfield	680	1	
+Tom Green County	102,136	Carlsbad	890	1	
+Tom Green County	102,136	Christoval	1,630	1	
+Tom Green County	102,136	Eola	250	1	
+Tom Green County	102,136	Goodfellow Afb	795	1	
+Tom Green County	102,136	Knickerbocker	163	1	
+Tom Green County	102,136	Mereta	220	1	
+Tom Green County	102,136	San Angelo	97,160	7	
+Tom Green County	102,136	Vancourt	132	1	
+Tom Green County	102,136	Veribest	163	1	
+Tom Green County	102,136	Wall	400	1	
+Tom Green County	102,136	Water Valley	333	1	
+Travis County	1,000,778	Austin	856,228	75	
+Travis County	1,000,778	Del Valle	22,050	1	
+Travis County	1,000,778	Leander	10,160	1	
+Travis County	1,000,778	Manchaca	4,260	1	
+Travis County	1,000,778	Manor	19,180	1	
+Travis County	1,000,778	Pflugerville	79,660	2	
+Travis County	1,000,778	Spicewood	9,240	1	
+Trinity County	11,282	Apple Springs	900	1	
+Trinity County	11,282	Centralia	0	1	
+Trinity County	11,282	Groveton	2,200	1	
+Trinity County	11,282	Pennington	230	1	
+Trinity County	11,282	Trinity	7,810	1	
+Trinity County	11,282	Woodlake	142	1	
+Tyler County	15,651	Chester	710	1	
+Tyler County	15,651	Colmesneil	2,120	1	
+Tyler County	15,651	Doucette	371	1	
+Tyler County	15,651	Fred	1,090	1	
+Tyler County	15,651	Hillister	770	1	
+Tyler County	15,651	Spurger	1,400	1	
+Tyler County	15,651	Warren	2,520	1	
+Tyler County	15,651	Woodville	6,670	2	
+Upshur County	30,810	Big Sandy	4,550	2	
+Upshur County	30,810	Diana	4,330	1	
+Upshur County	30,810	Gilmer	18,720	2	
+Upshur County	30,810	Ore City	3,210	1	
+Upton County	3,212	Mc Camey	2,160	1	
+Upton County	3,212	Midkiff	249	1	
+Upton County	3,212	Rankin	803	1	
+Uvalde County	25,239	Concan	430	1	
+Uvalde County	25,239	Knippa	790	1	
+Uvalde County	25,239	Sabinal	2,000	1	
+Uvalde County	25,239	Utopia	1,000	1	
+Uvalde County	25,239	Uvalde	21,019	2	
+Val Verde County	48,298	Comstock	318	1	
+Val Verde County	48,298	Del Rio	47,528	4	
+Val Verde County	48,298	Langtry	55	1	
+Val Verde County	48,298	Laughlin A F B	397	1	
+Van Zandt County	44,100	Ben Wheeler	5,000	1	
+Van Zandt County	44,100	Canton	11,640	1	
+Van Zandt County	44,100	Edgewood	3,400	1	
+Van Zandt County	44,100	Fruitvale	1,370	1	
+Van Zandt County	44,100	Grand Saline	5,930	1	
+Van Zandt County	44,100	Van	4,370	1	
+Van Zandt County	44,100	Wills Point	12,390	1	
+Victoria County	85,552	Bloomington	2,348	1	
+Victoria County	85,552	Inez	2,870	1	
+Victoria County	85,552	Mcfaddin	20	1	
+Victoria County	85,552	Meyersville	460	1	
+Victoria County	85,552	Nursery	395	1	
+Victoria County	85,552	Placedo	671	1	
+Victoria County	85,552	Telferner	738	1	
+Victoria County	85,552	Victoria	78,050	5	
+Walker County	46,069	Dodge	561	1	
+Walker County	46,069	Huntsville	40,119	8	
+Walker County	46,069	New Waverly	4,500	1	
+Walker County	46,069	Riverside	889	1	
+Waller County	37,211	Brookshire	10,880	1	
+Waller County	37,211	Hempstead	11,320	1	
+Waller County	37,211	Katy	1,591	2	
+Waller County	37,211	Pattison	893	1	
+Waller County	37,211	Prairie View	1,267	1	
+Waller County	37,211	Waller	11,260	1	
+Ward County	10,841	Barstow	299	1	
+Ward County	10,841	Grandfalls	448	1	
+Ward County	10,841	Monahans	9,520	1	
+Ward County	10,841	Pyote	172	1	
+Ward County	10,841	Wickett	402	1	
+Washington County	31,081	Brenham	25,291	2	
+Washington County	31,081	Burton	2,250	1	
+Washington County	31,081	Chappell Hill	1,880	1	
+Washington County	31,081	Washington	1,660	1	
+Webb County	255,966	Bruni	360	1	
+Webb County	255,966	Laredo	254,967	8	
+Webb County	255,966	Mirando City	350	1	
+Webb County	255,966	Oilton	289	1	
+Wharton County	40,052	Boling	2,230	1	
+Wharton County	40,052	Danevang	455	1	
+Wharton County	40,052	East Bernard	4,860	1	
+Wharton County	40,052	Egypt	187	1	
+Wharton County	40,052	El Campo	16,610	1	
+Wharton County	40,052	Glen Flora	277	1	
+Wharton County	40,052	Hungerford	757	1	
+Wharton County	40,052	Lane City	400	1	
+Wharton County	40,052	Lissie	228	1	
+Wharton County	40,052	Louise	1,790	1	
+Wharton County	40,052	Pierce	108	1	
+Wharton County	40,052	Wharton	12,150	1	
+Wheeler County	5,647	Allison	157	1	
+Wheeler County	5,647	Briscoe	210	1	
+Wheeler County	5,647	Mobeetie	340	1	
+Wheeler County	5,647	Shamrock	2,450	1	
+Wheeler County	5,647	Wheeler	2,490	1	
+Wichita County	110,525	Burkburnett	10,290	1	
+Wichita County	110,525	Electra	2,420	1	
+Wichita County	110,525	Iowa Park	8,470	1	
+Wichita County	110,525	Kamay	211	1	
+Wichita County	110,525	Sheppard Afb	2,630	1	
+Wichita County	110,525	Wichita Falls	86,504	8	
+Wilbarger County	11,488	Harrold	198	1	
+Wilbarger County	11,488	Odell	47	1	
+Wilbarger County	11,488	Oklaunion	166	1	
+Wilbarger County	11,488	Vernon	11,077	2	
+Willacy County	16,841	Lasara	606	1	
+Willacy County	16,841	Lyford	3,660	1	
+Willacy County	16,841	Port Mansfield	270	1	
+Willacy County	16,841	Raymondville	9,900	1	
+Willacy County	16,841	San Perlita	427	1	
+Willacy County	16,841	Sebastian	1,978	1	
+Williamson County	485,478	Austin	54,450	2	
+Williamson County	485,478	Bartlett	1,980	1	
+Williamson County	485,478	Cedar Park	76,277	2	
+Williamson County	485,478	Coupland	1,250	1	
+Williamson County	485,478	Florence	3,960	1	
+Williamson County	485,478	Georgetown	76,801	4	
+Williamson County	485,478	Granger	2,250	1	
+Williamson County	485,478	Hutto	28,610	1	
+Williamson County	485,478	Jarrell	6,130	1	
+Williamson County	485,478	Leander	53,412	2	
+Williamson County	485,478	Liberty Hill	11,470	1	
+Williamson County	485,478	Mc Neil	60	1	
+Williamson County	485,478	Round Rock	149,783	6	
+Williamson County	485,478	Schwertner	86	1	
+Williamson County	485,478	Taylor	16,750	1	
+Williamson County	485,478	Thrall	1,640	1	
+Williamson County	485,478	Walburg	142	1	
+Williamson County	485,478	Weir	427	1	
+Wilson County	38,044	Floresville	18,770	1	
+Wilson County	38,044	La Vernia	12,700	1	
+Wilson County	38,044	Pandora	60	1	
+Wilson County	38,044	Poth	2,094	1	
+Wilson County	38,044	Stockdale	3,700	1	
+Wilson County	38,044	Sutherland Springs	720	1	
+Winkler County	7,408	Kermit	6,530	1	
+Winkler County	7,408	Wink	878	1	
+Wise County	54,971	Alvord	3,010	1	
+Wise County	54,971	Boyd	5,580	1	
+Wise County	54,971	Bridgeport	10,270	1	
+Wise County	54,971	Chico	3,050	1	
+Wise County	54,971	Decatur	15,120	1	
+Wise County	54,971	Greenwood	96	1	
+Wise County	54,971	Newark	3,620	1	
+Wise County	54,971	Paradise	5,050	1	
+Wise County	54,971	Rhome	8,890	1	
+Wise County	54,971	Slidell	285	1	
+Wood County	38,893	Alba	3,800	1	
+Wood County	38,893	Golden	483	1	
+Wood County	38,893	Hawkins	5,950	1	
+Wood County	38,893	Mineola	10,660	1	
+Wood County	38,893	Quitman	6,200	1	
+Wood County	38,893	Winnsboro	8,940	1	
+Wood County	38,893	Yantis	2,860	1	
+Yoakum County	9,299	Denver City	7,260	1	
+Yoakum County	9,299	Plains	1,920	1	
+Yoakum County	9,299	Tokio	119	1	
+Young County	16,746	Graham	12,030	1	
+Young County	16,746	Loving	380	1	
+Young County	16,746	Newcastle	770	1	
+Young County	16,746	Olney	3,400	1	
+Young County	16,746	South Bend	166	1	
+Zapata County	12,127	Lopeno	257	1	
+Zapata County	12,127	San Ygnacio	700	1	
+Zapata County	12,127	Zapata	11,170	1	
+Zavala County	10,311	Batesville	1,020	1	
+Zavala County	10,311	Crystal City	7,650	1	
+Zavala County	10,311	La Pryor	1,641	1	
